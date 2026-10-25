@@ -20,7 +20,6 @@ cask "splitexercises" do
   uninstall quit: "io.github.jdevesablanco.SplitExercises"
   zap trash: [
     "~/Library/Application Support/SplitExercises",
-    "~/Library/Application Support/RightYourClick/actions/io.github.jdevesablanco.SplitExercises.split.json",
     "~/Library/Services/SplitExercises.workflow",
     "~/Library/Preferences/io.github.jdevesablanco.SplitExercises.plist",
   ]

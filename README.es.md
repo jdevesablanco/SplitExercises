@@ -108,6 +108,16 @@ Los ajustes están en `~/Library/Application Support/SplitExercises/settings.jso
 
 Todo ocurre en tu Mac. Sin telemetría ni acceso a la red.
 
+## Combina bien con
+
+Del mismo autor, gratis y open source:
+
+| App | Qué hace | Estado |
+|---|---|---|
+| **SplitExercises** | Divide PDFs de ejercicios en una hoja por ejercicio, con clic derecho | Esta app |
+| [QuitAll](https://github.com/jdevesablanco/QuitAll) | Cierra todas las apps de un clic, menos las que elijas | Disponible |
+| [PieMenu](https://github.com/jdevesablanco/PieMenu) | Un menú circular junto al puntero con tus apps, atajos y Automator, con ⌃Tab | Disponible |
+
 ## Licencia
 
 MIT © 2026 Julio Devesa Blanco

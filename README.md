@@ -108,6 +108,16 @@ Settings live in `~/Library/Application Support/SplitExercises/settings.json`.
 
 Everything runs on your Mac. No telemetry, no network access.
 
+## Pairs well with
+
+Made by the same author, free and open source:
+
+| App | What it does | Status |
+|---|---|---|
+| **SplitExercises** | Splits exercise PDFs into one sheet per exercise, from the right-click menu | This app |
+| [QuitAll](https://github.com/jdevesablanco/QuitAll) | Quits every app in one click, except the ones you pick | Available |
+| [PieMenu](https://github.com/jdevesablanco/PieMenu) | A radial menu at the pointer with your apps, shortcuts and Automator, on ⌃Tab | Available |
+
 ## License
 
 MIT © 2026 Julio Devesa Blanco
